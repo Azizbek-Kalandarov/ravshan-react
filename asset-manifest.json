@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ravshan-app/static/css/main.073c9b0a.css",
-    "main.js": "/ravshan-app/static/js/main.adc65856.js",
+    "main.js": "/ravshan-app/static/js/main.6207e665.js",
     "static/js/787.0aa3d540.chunk.js": "/ravshan-app/static/js/787.0aa3d540.chunk.js",
     "static/media/logo.svg": "/ravshan-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ravshan-app/index.html",
     "main.073c9b0a.css.map": "/ravshan-app/static/css/main.073c9b0a.css.map",
-    "main.adc65856.js.map": "/ravshan-app/static/js/main.adc65856.js.map",
+    "main.6207e665.js.map": "/ravshan-app/static/js/main.6207e665.js.map",
     "787.0aa3d540.chunk.js.map": "/ravshan-app/static/js/787.0aa3d540.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.adc65856.js"
+    "static/js/main.6207e665.js"
   ]
 }
